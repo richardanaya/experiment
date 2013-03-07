@@ -2,7 +2,7 @@ $(document).ready(function(){
     // create an new instance of a pixi stage
     var stage = new PIXI.Stage(0x66FF99);
 
-    var width = 400;
+    var width = 300;
     var height = 300;
     // create a renderer instance.
     var renderer = PIXI.autoDetectRenderer(width, height);
